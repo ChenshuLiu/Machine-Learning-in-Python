@@ -12,6 +12,7 @@ class KNN:
         assert (k >= 1) & (type(k) == int), f"k value {k} is invalid"
         self.k = k
         
+    # fitting the training data
     def fit(self, X, y):
         self.X_train = X
         self.y_train = y
