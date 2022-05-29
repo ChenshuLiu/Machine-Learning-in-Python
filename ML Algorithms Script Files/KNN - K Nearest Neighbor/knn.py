@@ -1,8 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap
 from collections import Counter
-cmap = ListedColormap(['#FF0000', '#00FF00', '#0000FF'])
 
 def euclidean_distance(x1, x2):
     return np.sqrt(np.sum(x1 - x2)**2)
