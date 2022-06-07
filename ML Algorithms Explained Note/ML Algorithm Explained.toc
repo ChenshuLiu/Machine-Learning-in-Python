@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}KNN}{2}{}%
+\contentsline {section}{\numberline {2}Linear Regression}{3}{}%
+\contentsline {section}{\numberline {3}Logistic Regression}{4}{}%
+\contentsline {section}{\numberline {4}Naive Bayes}{5}{}%
+\contentsline {section}{\numberline {5}Perceptron}{6}{}%
+\contentsline {section}{\numberline {6}SVM}{7}{}%
+\contentsline {section}{\numberline {7}Decision Tree}{9}{}%
+\contentsline {section}{\numberline {8}Random Forest}{10}{}%
+\contentsline {section}{\numberline {9}PCA}{11}{}%
+\contentsline {section}{\numberline {10}K-Means}{12}{}%
+\contentsline {section}{\numberline {11}AdaBoost}{13}{}%
+\contentsline {subsection}{\numberline {11.1}Math: Error}{13}{}%
+\contentsline {subsection}{\numberline {11.2}Math: Weights}{13}{}%
+\contentsline {subsection}{\numberline {11.3}Math: Prediction}{14}{}%
+\contentsline {section}{\numberline {12}LDA}{15}{}%
